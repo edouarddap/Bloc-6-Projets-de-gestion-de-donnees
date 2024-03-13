@@ -1,6 +1,6 @@
 # Jedha - Bloc 6
 
-## Ship detection with deeplearning model
+## Détection de bateaux sur des images satellites / aériennes par deeplearning 
 
 #### Objectif du projet :
 
@@ -15,6 +15,6 @@ Dans ce cadre nous avons développé une application qui pourrait servir à diff
 
 #### Outils :
 
-Transfer learning: utilisation de l'algorithme YOLO V8
+Transfer learning : utilisation de l'algorithme YOLO V8
 
 
