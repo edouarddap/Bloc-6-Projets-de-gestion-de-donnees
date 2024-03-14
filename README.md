@@ -15,7 +15,7 @@ Dans ce cadre nous avons développé une application qui pourrait servir à diff
 
 #### Outils :
 
-Transfer learning : utilisation de l'algorithme YOLO V8
+Transfert learning : utilisation de l'algorithme YOLO V8
 
 #### liens: 
 https://www.kaggle.com/datasets/siddharthkumarsah/ships-in-aerial-images
