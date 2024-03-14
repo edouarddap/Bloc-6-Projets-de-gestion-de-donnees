@@ -4,7 +4,7 @@
 
 #### Objectif du projet :
 
-L'objectif principal de ce projet a été de développer un modèle de deep learning capable de détecter un ou plusieurs bateaux à partir d’une image aérienne ou satellite.
+L'objectif principal de ce projet a été de développer un modèle de deep learning capable de détecter un ou plusieurs bateaux à partir d’images satellites.
 
 Dans ce cadre nous avons développé une application qui pourrait servir à différent usage comme: 
 
